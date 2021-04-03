@@ -26,3 +26,13 @@ a{
 label{
   font-family: arial;
 }
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  height: 2px;
+}
