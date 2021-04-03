@@ -26,3 +26,8 @@ a{
 label{
   font-family: arial;
 }
+
+hr {
+  background-color: white;
+  border-style: none;
+}
