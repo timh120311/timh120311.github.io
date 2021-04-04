@@ -32,8 +32,8 @@ label{
 
 
 hr {
-  border-style: none;
-  border-top-style: dotted;
-  height: 30px;
-  width: 30px;
+  border-style: dotted none none;
+  border-color: grey;
+  height: 5px;
+  width: 5%;
 }
